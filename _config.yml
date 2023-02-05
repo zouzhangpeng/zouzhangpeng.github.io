@@ -104,5 +104,5 @@ theme: landscape
 deploy:
   type: git
   repo:
-    github: https://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@github.com/zouzhangpeng/zouzhangpeng.github.io.git 
+    github: https://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@github.com/zouzhangpeng/zouzhangpeng.github.io.git
   branch: main
